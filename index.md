@@ -1,5 +1,5 @@
 ### Shuaibin Wan
-<img src="https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg" width="100" height="100"><br/>
+<img src="https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg" width="288" height="216"><br/>
 PhD candidate<br/>
 Department of Mechanical and Aerospace Engineering<br/>
 The Hong Kong University of Science and Technology<br/>
