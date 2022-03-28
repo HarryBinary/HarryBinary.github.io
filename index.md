@@ -1,6 +1,7 @@
 # Stay Hungry, Stay Foolish.
+##
 ### Shuaibin Wan
-![](https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg =288x216)
+![image](https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg?raw=true)
 <br/>
 PhD candidate<br/>
 Department of Mechanical and Aerospace Engineering<br/>
