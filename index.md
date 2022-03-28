@@ -1,3 +1,4 @@
+{% seo %}
 ## Shuaibin Wan
 PhD candidate<br/>
 Department of Mechanical and Aerospace Engineering<br/>
@@ -7,5 +8,6 @@ Email: swanad [at] connect [dot] ust [dot] hk<br/>
 ### Summary
 
 ### Education
- - PhD (ongoing), The Hong Kong Univerisity of Science and Technology
+ - PhD (ongoing), The Hong Kong Univerisity of Science and Technology<br/>
+
  - BEng, Harbin Institute of Technology
