@@ -1,4 +1,4 @@
 plugins:
 - jekyll-seo-tag # install Jekyll SEO tag
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
