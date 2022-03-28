@@ -1,12 +1,12 @@
 ![image](https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg?raw=True)<br/>
-### Shuaibin Wan
+### Shuaibin (Harry) Wan
 PhD candidate<br/>
 Department of Mechanical and Aerospace Engineering<br/>
 The Hong Kong University of Science and Technology<br/>
 Email: swanad [at] connect [dot] ust [dot] hk<br/>
 
 ### Education
- - The Hong Kong Univerisity of Science and Technology, Sep 2018-Aug 2022 (expected)<br/>
+ - The Hong Kong Univerisity of Science and Technology, Sep 2018-now<br/>
  PhD (ongoing), Mechanical and Aerospace Engineering
  - Harbin Institute of Technology, Sep 2014-Jun 2018<br/>
  BEng, Material Science and Engineering
@@ -15,7 +15,7 @@ Email: swanad [at] connect [dot] ust [dot] hk<br/>
   - Computer: MATLAB (deep learning, statistical analysis, numerical simulation), COMSOL (battery simulation), Python (deep learning), MS (basics)  
   - Laboratory: Assembly and test of redox flow batteries  
   - Language: Chinese (native), English (proficient), Germany (beginner)  
-  - Interest: Badminton, Hiking, Hitory, Light music  
+  - Interest: Badminton, Hiking, History, Light music  
 
 ### Publications
  - **Shuaibin Wan***, Xiongwei Liang*, Haoran Jiang, Jing Sun, Ned Djilali, and Tianshou Zhao. A coupled machine learning and genetic algorithm approach to the design of porous electrodes for redox flow batteries. *Applied Energy* **298**, 117177 (2021).  
