@@ -1,4 +1,6 @@
-## Shuaibin Wan
+## Stay hungry, stay foolish.<br/>
+### Shuaibin Wan
+![alt text](https://github.com/HarryBinary/HarryBinary.github.io/winter_harbin?raw=true)
 PhD candidate<br/>
 Department of Mechanical and Aerospace Engineering<br/>
 The Hong Kong University of Science and Technology<br/>
@@ -9,7 +11,6 @@ Email: swanad [at] connect [dot] ust [dot] hk<br/>
 ### Education
  - The Hong Kong Univerisity of Science and Technology, Sep 2018 - Aug 2022 (expected)<br/>
  PhD (ongoing), Mechanical and Aerospace Engineering
- 
  - Harbin Institute of Technology, Sep 2014 - Jun 2018<br/>
  BEng, Material Science
  
