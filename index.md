@@ -1,6 +1,6 @@
 ## Stay hungry, stay foolish.<br/>
 ### Shuaibin Wan
-![alt text](https://github.com/HarryBinary/HarryBinary.github.io/winter_harbin.jpg?raw=true)<br/>
+![alt text](https://github.com/HarryBinary/HarryBinary.github.io/blob/main/winter_harbin.jpg?raw=true)<br/>
 PhD candidate<br/>
 Department of Mechanical and Aerospace Engineering<br/>
 The Hong Kong University of Science and Technology<br/>
