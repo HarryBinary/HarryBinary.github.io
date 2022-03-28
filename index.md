@@ -1,8 +1,8 @@
 ## Shuaibin Wan
-PhD candidate
-Department of Mechanical and Aerospace Engineering
-The Hong Kong University of Science and Technology
-Email: swanad [at] connect [dot] ust [dot] hk
+PhD candidate<br/>
+Department of Mechanical and Aerospace Engineering<br/>
+The Hong Kong University of Science and Technology<br/>
+Email: swanad [at] connect [dot] ust [dot] hk<br/>
 
 ### Summary
 
