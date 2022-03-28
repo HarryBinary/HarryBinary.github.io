@@ -5,6 +5,8 @@ Department of Mechanical and Aerospace Engineering<br/>
 The Hong Kong University of Science and Technology<br/>
 Email: swanad [at] connect [dot] ust [dot] hk<br/>
 
+[Google Scholar](https://scholar.google.com/citations?user=UxMIMugAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Shuaibin-Wan) / [Linkedin](https://www.linkedin.com/in/shuaibin-wan-66505b170/)
+
 ### Education
  - The Hong Kong Univerisity of Science and Technology, Sep 2018-now<br/>
  PhD (ongoing), Mechanical and Aerospace Engineering
