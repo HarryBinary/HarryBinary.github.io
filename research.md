@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publishment
+title: Publications
 menu: main
 order: 1
-permalink: /publishment/
+permalink: /publications/
 ---
 ***
 
