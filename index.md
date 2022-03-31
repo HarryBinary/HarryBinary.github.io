@@ -15,13 +15,6 @@ I am a Ph.D. candidate in Mechanical and Aerospace Engineering at [The Hong Kong
  - Optimization algorithm
 
 **Education**
+ - Ph.D. (on going), Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology
+ - B.Eng., Material Science and Engineering, Harbin Institute of Technology, 2018
 
-| The Hong Kong University of Science and Technology | Aug 2018 - Present |
-| ----------- | ----------: |
-| Ph.D. (ongoing) in Mechanical and Aerospace Engineering |  |
-{:.custom-table}
-
-| Harbin Institute of Technology | Sep 2014 - Jun 2018 |
-| ----------- | ----------: |
-| B.Eng. in Material Science and Engineering |  |
-{:.custom-table}
