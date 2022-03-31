@@ -11,12 +11,3 @@ Teaching Statement:
 ***
 
 Stay hungry, stay foolish.
-
-### Teaching Experience
-
-| University | CN |
-| ----------- | ----------: |
-| course | term |
-{:.custom-table}
-
-
