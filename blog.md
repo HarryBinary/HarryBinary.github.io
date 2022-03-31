@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Teaching
+title: Blog
 menu: main
 order: 2
-permalink: /teaching/
+permalink: /blog/
 ---
 <!---
 Teaching Statement:
