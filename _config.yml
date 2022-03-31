@@ -37,7 +37,7 @@ github_username: HarryBinary
 # Navigation links
 header pages:
  - research.md
-# - teaching.md
+ - blog.md
  - cv.md
 
 #sass/SCSS
