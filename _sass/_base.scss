@@ -138,11 +138,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $boilermaker-gold;  // Set olor of hyperlinks
+  color: $my-blue;  // Set olor of hyperlinks
   text-decoration: none;
 
   &:visited {
-    color: $boilermaker-gold;  // Set color of hyperlinks that have been visited
+    color: $my-blue;  // Set color of hyperlinks that have been visited
   }
 
   &:hover {
@@ -169,7 +169,7 @@ a.page-link {
       text-decoration: none;
 
       &:hover {
-        color: $boilermaker-gold;  // Set color of iterms when mouse cursor moves onto them
+        color: $my-blue;  // Set color of iterms when mouse cursor moves onto them
 	font-weight: bold;
 	background-color: $dark-gray;  // Set color of navigation column
       } 
@@ -185,7 +185,7 @@ a.site-title {
       text-decoration: none;
 
       &:hover {
-	color: $boilermaker-gold;  // Set color of title when mouse cursor moves onto them
+	color: $my-blue;  // Set color of title when mouse cursor moves onto them
 	font-weight: bold;
 	background-color: $dark-gray;
       }
@@ -209,7 +209,7 @@ a.footer-link {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
+  color: $my-sky;
   border-left: 4px solid $border-color-01;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
