@@ -9,15 +9,18 @@ Welcome to my website!
 I am a Ph.D. candidate in Mechanical and Aerospace Engineering at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/home). My research lies in the interdisciplinary areas of artificial intelligence and energy storage devices, aiming at designing deivce components to optimize system performance.
 
 **Research Interests**
- - Machine learning
  - Data-driven modelling
+ - Battery simulation
+ - Generative model
  - Optimization algorithm
 
 **Education**
+
 | The Hong Kong University of Science and Technology | Aug 2018 - Present |
 | ----------- | ----------: |
 | Ph.D. (ongoing) in Mechanical and Aerospace Engineering |  |
 {:.custom-table}
+
 | Harbin Institute of Technology | Sep 2014 - Jun 2018 |
 | ----------- | ----------: |
 | B.Eng. in Material Science and Engineering |  |
