@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research
+title: Publishment
 menu: main
 order: 1
-permalink: /research/
+permalink: /publishment/
 ---
 ***
-### Published Papers:
+
 
 #### A coupled machine learning and genetic algorithm approach to the design of porous electrodes for redox flow batteries [[Online Version](https://www.sciencedirect.com/science/article/pii/S0306261921006073)]
 **Shuaibin Wan**\*, Xiongwei Liang\*, Haoran Jiang, Jing Sun, Ned Djilali, Tianshou Zhao  
@@ -19,17 +19,4 @@ permalink: /research/
 *International Journal of Energy Research* **43** (7), 2562-2570 (2019) 
 
 **Abstract** Three-dimensional microstructure of infiltrated solid oxide fuel cell electrodes with dual-phase backbone is simulated numerically. This work employs LSM (lanthanum strontium manganite) infiltrated LSM yttria-stabilized zirconia composite electrodes as an example. Important geometric properties, including percolation probability of LSM, total and percolated three-phase boundary (TPB) lengths, and total and percolated surface areas of LSM, are calculated under various LSM nanoparticle loadings. One important finding is that compared with pure yttria-stabilized zirconia backbone, dual-phase backbone results in lower TPB length and has little impact on the surface area of LSM particles. Therefore, the addition of LSM backbone may be ineffective, even negative in promoting the electrode performance, however, can significantly reduce the LSM infiltration threshold loading to form a percolating network. The trade-off between decreasing infiltration cycle and increasing TPB length demands an optimized content of LSM in backbone.
-
-### Research Experience:
-
-| The Hong Kong University of Science and Technology | Hong Kong SAR, China |
-| ----------- | ----------: |
-| Research Assistant to Prof. Tianshou Zhao | Aug 2018 – Present |
-{:.custom-table}
-
-| Harbin Institute of Technology | Harbin, China |
-| --------------------- | ------------: |
-| Research Assistant to Prof. Yanxiang Zhang | Jun 2016 - Jun 2018 |
-{:.custom-table}
-
 
