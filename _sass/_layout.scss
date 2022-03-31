@@ -2,11 +2,11 @@
  * Site header
  */
 .site-header {
-  border-top: 0px solid $white;
-  border-bottom: 6px solid $boilermaker-gold;
+  border-top: 0px solid $white;  // Remove top border (size=0)
+  border-bottom: 6px solid $my-blue;  // Set bottom border size and color
   min-height: $spacing-unit * 1.8;
   line-height: $base-line-height * $base-font-size * 2.25;
-  background: $dark-gray;
+  background: $dark-gray;  // Set color of navigation column
 
   // Positioning context for the mobile navigation icon
   position: fixed;
@@ -125,9 +125,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
+  border-top: 1px solid $border-color-01;  // Set top border size and color
   padding: $spacing-unit 0;
-  background-color: $boilermaker-gold;
+  background-color: $my-blue;  // Set color of navigation column
 }
 
 .footer-heading {
@@ -149,7 +149,7 @@
 	margin-bottom:0;
 }
 
-.github-list {
+.github-list {  // Define 'github_list'
 	margin-top:0;
 	list-style: none;
 	margin-bottom:5px;
@@ -163,7 +163,7 @@
  height: 20px;   
  width: 20px;    
  background-size: 20px;   
- background-image: url('../../assets/images/github.svg'); //that's it
+ background-image: url('../../assets/images/github.svg'); // Github icon
  background-repeat: no-repeat;   
  margin-right: 5px;
  background-position: center center;
@@ -171,10 +171,10 @@
  margin-bottom: 5px;
 }
 
-.linkedin-list {
+.linkedin-list {  // Define 'linkedin-list'
         margin-top:0;
         list-style: none;
-	margin-bottom:5px;
+	      margin-bottom:5px;
         line-height: 20px;
         vertical-align: middle;
 }
@@ -185,7 +185,7 @@
  height: 20px;
  width: 20px;
  background-size: 20px;
- background-image: url('../../assets/images/linkedin.svg');
+ background-image: url('../../assets/images/linkedin.svg');  // Linkedin icon
  background-repeat: no-repeat;
  margin-right: 5px;
  background-position: center center;
@@ -193,7 +193,7 @@
  margin-bottom: 5px;
 }
 
-.strava-list {
+.scholar-list {  // Define 'scholar-list'
         margin-top:0;
         list-style: none;
         margin-bottom:5px;
@@ -201,13 +201,13 @@
         vertical-align: middle;
 }
 
-.strava-list > li::before {
+.scholar-list > li::before {
  content: '';
  display: inline-block;
  height: 20px;
  width: 20px;
  background-size: 20px;
- background-image: url('../../assets/images/strava.svg');
+ background-image: url('../../assets/images/google_scholar.svg');  // Google Scholar icon
  background-repeat: no-repeat;
  margin-right: 5px;
  background-position: center center;
@@ -221,7 +221,7 @@
   color: $steel;
 }
 
-.footer-col {
+.footer-col {  // Define 'footer-col'
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -279,23 +279,23 @@ backkground: url('./assets/images/github.svg') no-repeat left top;
 /**
  * Page content
  */
-.page-content {
+.page-content {  // Define 'page-content'
   padding: $spacing-unit 0;
   flex: 1 0 auto;
   margin-top: $spacing-unit * 1.8;
 }
 
-.page-heading {
+.page-heading {  // Define 'page-heading'
   @include relative-font-size(2);
   text-align: center;
   //added text align center for header in index.md
 }
 
-.post-list-heading {
+.post-list-heading {  // Define 'post-list-heading'
   @include relative-font-size(1.5);
 }
 
-.post-list {
+.post-list {  // Define 'post_list'
   margin-left: 0;
   list-style: none;
 

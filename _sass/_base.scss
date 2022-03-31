@@ -138,11 +138,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $boilermaker-gold;
+  color: $boilermaker-gold;  // Set olor of hyperlinks
   text-decoration: none;
 
   &:visited {
-    color: $boilermaker-gold;
+    color: $boilermaker-gold;  // Set color of hyperlinks that have been visited
   }
 
   &:hover {
@@ -164,14 +164,14 @@ a {
  */
 
 a.page-link {
-      color: $white;
+      color: $white;  // Set color of items in navigation column
       font-weight: bold;
       text-decoration: none;
 
       &:hover {
-        color: $boilermaker-gold;
+        color: $boilermaker-gold;  // Set color of iterms when mouse cursor moves onto them
 	font-weight: bold;
-	background-color: $dark-gray; 
+	background-color: $dark-gray;  // Set color of navigation column
       } 
 }
 
@@ -180,12 +180,12 @@ a.page-link {
  */
 
 a.site-title {
-      color: $white;
+      color: $white;  // Set color of title in navigation column
       font-weight: bold;
       text-decoration: none;
 
       &:hover {
-	color: $boilermaker-gold;
+	color: $boilermaker-gold;  // Set color of title when mouse cursor moves onto them
 	font-weight: bold;
 	background-color: $dark-gray;
       }
@@ -197,11 +197,11 @@ a.site-title {
  */
 
 a.footer-link {
-	color: $steel;
+	color: $steel;  // Set color of social media links in footer
 	text-decoration: none;
 
 	&:hover{
-	  color: $white;
+	  color: $white;  // Set color of social media links when mouse cursor moves onto them
 	}
 }
 
@@ -301,7 +301,7 @@ pre {
  */
 
 .orange {
-  color: #f66a0a;
+  color: #f66a0a;  // Set colors of social media icons?
 }
 
 .grey {

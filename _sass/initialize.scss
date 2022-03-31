@@ -2,19 +2,19 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Helvetica, Futura, Tahoma, Verdana, Arial, Helvetica, sans-serif !default;
-$code-font-family: "Menlo", "Ubuntu Mono", "Courier New", monospace;
-$base-font-size:   16px !default;
+$base-font-family: Helvetica, Futura, Tahoma, Verdana, Arial, Helvetica, sans-serif !default;  // Set default font of text
+$code-font-family: "Menlo", "Ubuntu Mono", "Courier New", monospace;  // Set default font of code
+$base-font-size:   16px !default;  // Set default font size
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.5 !default;  // Set default line height
 
 $spacing-unit:     30px !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    800px !default;  // Set default content width
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
