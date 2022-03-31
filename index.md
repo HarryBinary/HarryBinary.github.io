@@ -9,6 +9,6 @@ Welcome! I am a PhD candidate in the [Department of Mechanical and Aerospace Eng
 
 Before coming to HKUST, I graduated from Harbin Institue of Technology with a BEng in [Material Science and Engineering](http://mse.hit.edu.cn/).
 
-I will be on the 2022-2023 job market and I expect to graduate in Aug 2022. 
+I will be on the 2022-2023 job market and I expect to graduate in 2022. 
 
 When I am not in my office, I enjoy hiking and badminton.
