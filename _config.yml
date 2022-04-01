@@ -48,6 +48,7 @@ sass:
 #plugins
 plugins: 
  - jekyll-seo-tag  # Make the webpage visible to search engines, e.g., Google
+ - jekyll-sitemap  # This is for sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
