@@ -1,7 +1,6 @@
 ---
-title: welcome
+title: Welcome!
 ---
-
 ![image](https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg?raw=True)<br/>
 ### Shuaibin Wan
 PhD candidate<br/>
@@ -15,7 +14,6 @@ Email: swanad [at] connect [dot] ust [dot] hk<br/>
 I am a PhD candidate at The Hong Kong University of Science and Technology. My current research is focused on the application of machine learning in the design and optimization of redox flow batteries. Specifically, I have been working on designing firous electrodes and flow fields of redox flow batteries.
 
 ### Education  
-
 | **The Hong Kong Univerisity of Science and Technology** | 2018 - Present |
 | Ph.D. (ongoing), Mechanical and Aerospace Engineering   | |
 | **Harbin Institute of Technology**                      | 2014 - 2018 |
