@@ -16,10 +16,10 @@ I am a PhD candidate at The Hong Kong University of Science and Technology. My c
 
 ### Education  
 
- - | **The Hong Kong Univerisity of Science and Technology** | 2018 - Present |
-   | Ph.D. (ongoing), Mechanical and Aerospace Engineering | |
- - | **Harbin Institute of Technology** | 2014 - 2018 |
-   | B.Eng., Material Science and Engineering | |
+| **The Hong Kong Univerisity of Science and Technology** | 2018 - Present |
+| Ph.D. (ongoing), Mechanical and Aerospace Engineering   | |
+| **Harbin Institute of Technology**                      | 2014 - 2018 |
+| B.Eng., Material Science and Engineering                | |
 
 ### Publications
  - **Shuaibin Wan**\*, Xiongwei Liang\*, Haoran Jiang, Jing Sun, Ned Djilali, and Tianshou Zhao. A coupled machine learning and genetic algorithm approach to the design of porous electrodes for redox flow batteries. *Applied Energy* **298**, 117177 (2021).  
