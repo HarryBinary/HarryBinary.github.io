@@ -1,3 +1,8 @@
+---
+layout: home
+title: welcome
+---
+
 ![image](https://github.com/HarryBinary/HarryBinary.github.io/blob/main/hiking_longxia_bay.jpg?raw=True)<br/>
 ### Shuaibin Wan
 PhD candidate<br/>
