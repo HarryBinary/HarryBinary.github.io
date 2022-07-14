@@ -20,7 +20,7 @@ I am a PhD candidate at The Hong Kong University of Science and Technology. My c
    B.Eng., Material Science and Engineering                
 
 ### Publications
- - **Shuaibin Wan**\*, Haoran Jiang\*, Zixiao Guo, Changxiang He, Xiongwei Liang, Djilali Ned, and Tianshou Zhao. Machine learning-assisted design of flow fields for redox flow batteries. *Energy & Environmental Scicence* (2022).  
+ - **Shuaibin Wan**\*, Haoran Jiang\*, Zixiao Guo, Changxiang He, Xiongwei Liang, Djilali Ned, and Tianshou Zhao. Machine learning-assisted design of flow fields for redox flow batteries. *Energy & Environmental Scicence* **15**, 2874-2888 (2022). **Front Cover**
  - **Shuaibin Wan**\*, Xiongwei Liang\*, Haoran Jiang, Jing Sun, Ned Djilali, and Tianshou Zhao. A coupled machine learning and genetic algorithm approach to the design of porous electrodes for redox flow batteries. *Applied Energy* **298**, 117177 (2021).  
  - Jiahui Xu, **Shuaibin Wan**, Yao Wang, Su Huang, Zhihao Yuan, Fanglin Chen, Yanxiang Zhang, and Tong Liu. Enhancing performance of molybdenum doped strontium ferrite electrode by surface modification through Ni infiltration. *International Journal of Hydrogen Energy* **46** (18), 10876-10891 (2021).    
  - Guang Jiang, Fuyao Yan, **Shuaibin Wan**, Yanxiang Zhang, and Mufu Yan. Microstructure evolution and kinetics of B-site nanoparticle exsolution from an A-site-deficient perovskite surface: a phase-field modeling and simulation study. *Physical Chemistry Chemical Physics* **21** (21), 10902-10907 (2019).   
