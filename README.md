@@ -11,7 +11,7 @@ Email: swanad [at] connect [dot] ust [dot] hk<br/>
 [Google Scholar](https://scholar.google.com/citations?user=UxMIMugAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Shuaibin-Wan) / [Linkedin](https://www.linkedin.com/in/shuaibin-wan-66505b170/)
 
 ### About me
-I am a PhD candidate at The Hong Kong University of Science and Technology. My current research is focused on the application of machine learning in the design and optimization of energy storage devices.
+I am a PhD candidate at The Hong Kong University of Science and Technology. My research lies in the intersection of machine learning and energy storage devices, aiming at optimizing battery performance with machine intelligence.
 
 ### Education
  - **The Hong Kong Univerisity of Science and Technology** 2018 - Present<br/>
